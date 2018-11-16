@@ -225,7 +225,7 @@ def big_shoe_rebounds
             biggest_shoe_player = keys
  #         binding.pry
           end
-          binding.pry
+ #         binding.pry
           return team_values[biggest_shoe_player][:rebounds]
         end
       end
